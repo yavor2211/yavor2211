@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to work with Python, CSS, HTML.
 - 📫 How to reach me :
 - Facebook: https://www.facebook.com/prosto.svejar/
+- E-mail: whappa29@gmail.com
 
 <!---
 yavor2211/yavor2211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
